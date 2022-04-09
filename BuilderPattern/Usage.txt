@@ -1,0 +1,1 @@
+﻿The Builder pattern is a well-known pattern in C# world. It’s especially useful when you need to create an object with lots of possible configuration options.

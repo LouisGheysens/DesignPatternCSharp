@@ -1,0 +1,1 @@
+﻿The Composite pattern is pretty common in C# code. It’s often used to represent hierarchies of user interface components or the code that works with graphs.
